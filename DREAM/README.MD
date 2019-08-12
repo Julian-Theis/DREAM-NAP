@@ -2,7 +2,8 @@
 This folder contains the source code of the Decay Replay Mining (DREAM) approach. It uses the subsequently listed projects and libraries.
 
 # Acknowledgements & Credits 
-## Raffaele Conforti's ResearchCode **
+## Raffaele Conforti's ResearchCode ##
+[Raffaele Conforti's Research Code](https://github.com/raffaeleconforti/ResearchCode)  
 The code is available as open source code; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License along with this it. If not, see http://www.gnu.org/licenses/lgpl-3.0.html.
