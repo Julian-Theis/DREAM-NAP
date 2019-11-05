@@ -1,5 +1,4 @@
 # Decay Replay Mining to Predict Next Process Events
-[![HitCount](http://hits.dwyl.io/Julian-Theis/DREAM-NAP.svg)](http://hits.dwyl.io/Julian-Theis/DREAM-NAP)
 This project is the implementation of the *Decay Replay Mining - Next Transition Prediction* (DREAM-NAP) approach described in the paper [Decay Replay Mining to Predict Next Process Events](https://ieeexplore.ieee.org/document/8811455) by [Julian Theis](http://julian-theis.github.io) and [Houshang Darabi](https://scholar.google.com/citations?user=PVzYdvoAAAAJ). Both authors are part of the [Process Mining and Intelligent System Analytics Team (PROMINENT)](https://prominent.uic.edu/) at the University of Illinois at Chicago, USA. 
 
 ## Approach
@@ -38,3 +37,5 @@ The plugin and its documentation is available here: [https://prominentlab.github
 
 ## Remarks
 We thank Raffaele Conforti for making his extensive research code available. This project requires the installation of his [Research Code](https://github.com/raffaeleconforti/ResearchCode).
+
+[![HitCount](http://hits.dwyl.io/Julian-Theis/DREAM-NAP.svg)](http://hits.dwyl.io/Julian-Theis/DREAM-NAP)
