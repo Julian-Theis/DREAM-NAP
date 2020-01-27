@@ -1,5 +1,7 @@
 # Decay Replay Mining to Predict Next Process Events
-This project is the implementation of the *Decay Replay Mining - Next Transition Prediction* (DREAM-NAP) approach described in the paper [Decay Replay Mining to Predict Next Process Events](https://ieeexplore.ieee.org/document/8811455) by [Julian Theis](http://julian-theis.github.io) and [Houshang Darabi](https://scholar.google.com/citations?user=PVzYdvoAAAAJ). Both authors are part of the [Process Mining and Intelligent System Analytics Team (PROMINENT)](https://prominent.uic.edu/) at the University of Illinois at Chicago, USA. 
+This project is the implementation of the *Decay Replay Mining - Next Transition Prediction* (DREAM-NAP) approach described in the paper [Decay Replay Mining to Predict Next Process Events](https://ieeexplore.ieee.org/document/8811455) by [Julian Theis](http://julian-theis.github.io) and [Houshang Darabi](https://scholar.google.com/citations?user=PVzYdvoAAAAJ). Both authors are with the [Process Mining and Intelligent System Analytics Team (PROMINENT)](https://prominent.uic.edu/) at the University of Illinois at Chicago, USA. 
+
+There exists also a python implementation called [PyDREAM](https://github.com/Julian-Theis/PyDREAM) which is based on [PM4Py](http://pm4py.org/).
 
 ## Approach
 The DREAM-NAP approach consists of two stages: Decay Function Enhancement of a process model and Deep Learning using timed state samples.
